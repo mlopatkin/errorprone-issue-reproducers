@@ -10,7 +10,7 @@ repositories {
     mavenCentral()
 }
 dependencies {
-    errorprone("com.google.errorprone:error_prone_core:2.27.1")
+    errorprone("com.google.errorprone:error_prone_core:2.29.1")
 }
 
 java {
